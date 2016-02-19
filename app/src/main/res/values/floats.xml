@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="news_feed_image_view_weight" format="float" type="integer">0.8</item>
+    <item name="news_feed_text_view_weight" format="float" type="integer">0.2</item>
+
+    <item name="time_widget" format="float" type="integer">0.5</item>
+    <item name="weather_widget" format="float" type="integer">0.5</item>
+
+    <item name="temperature_image_view_weight" format="float" type="integer">0.6</item>
+    <item name="temperature_text_view_weight" format="float" type="integer">0.4</item>
+</resources>
