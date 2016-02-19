@@ -8,6 +8,6 @@ import retrofit2.http.GET;
  * Smart Mirror project
  */
 public interface OpenWeatherAPI {
-    @GET("data/2.5/weather?q=Pitesti,ro&units=metric&type=accurate&appid=c007306f537b5c5b9fb21f04d819e45e&lang=ro")
+    @GET("data/2.5/weather?q=Pitesti,ro&units=metric&type=accurate&appid=[your_api_key]&lang=ro")
     Call<WeatherObject> getWeather();
 }
