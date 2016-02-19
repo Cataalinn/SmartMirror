@@ -4,5 +4,5 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="default_time_value">00:00</string>
-    <string name="facebook_app_id">819690351487519</string>
+    <string name="facebook_app_id">your_id</string>
 </resources>
