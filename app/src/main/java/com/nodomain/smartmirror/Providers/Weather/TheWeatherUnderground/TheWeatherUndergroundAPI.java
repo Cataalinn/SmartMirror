@@ -8,6 +8,6 @@ import retrofit2.http.GET;
  * Smart Mirror project
  */
 public interface TheWeatherUndergroundAPI {
-    @GET("/api/8160d9703d72f1dc/conditions/q/RO/Pitesti.json")
+    @GET("/api/your_api_key/conditions/q/RO/Pitesti.json")
     Call<TheWeatherUndergroundResponse> getWeather();
 }
